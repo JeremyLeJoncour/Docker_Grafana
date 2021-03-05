@@ -70,6 +70,13 @@ Dans notre cas, il s'agit de la deuxième option. Nous avons choisi de faire 2 [
 
 ![dashboard](image/dashboard.PNG)
 
+## Serveur Externe
+
+Le même processus a été réalisé sur un serveur externe. Après avoir cloné notre dossier depuis Git Hub, le Docker-Compose a été activé. 
+Un `docker ps` nous permet de vérifier que nos deux containers sont bien présents.
+
+![dashboard](image/commandeext.png)
+
 
 
 
