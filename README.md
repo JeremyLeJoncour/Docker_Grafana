@@ -78,7 +78,7 @@ Un `docker ps` nous permet de vérifier que nos deux containers sont bien prése
 
 ![dashboard](image/commandeext.png)
 
-
+En rentrant l'adresse IP du serveur et le port de notre container Grafana (port:80), le dashboard s'affiche.
 
 
 
