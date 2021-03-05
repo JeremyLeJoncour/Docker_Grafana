@@ -32,6 +32,7 @@ Cela va permettre de créer les 2 containers pour **MySQL** et **Grafana** et de
 
 ![containers](image/containers.PNG)
 
+En rentrant l'adresse IP ainsi que le port de notre container Grafana (80), nous pouvons accéder aux graphiques.
 On peut vérifier que les containers sont bien lancés avec la commande ``docker ps``
 
 ![docker_ps](image/docker_ps.PNG)
